@@ -83,4 +83,5 @@ input[type="text"]{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 700;
     text-align: right;
+	cursor: not-allowed;
 }
